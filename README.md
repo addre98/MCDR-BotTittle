@@ -17,10 +17,13 @@
 
 ```json
 {
-    "title_prefix": "§f[§aBot§f]"
+    "title_prefix": "§f[§aBot§f]",
+    "fallback_detect": false
 }
 ```
-- `title_prefix`：称号前缀字符串，使用格式化代码 `§` 
+
+- `title_prefix`：称号前缀字符串，使用格式化代码 `§`
+- `fallback_detect`：启用原始日志匹配（默认 `false`），覆盖 `on_player_joined` 无法匹配的异常短名称假人
 
 ## 许可
 

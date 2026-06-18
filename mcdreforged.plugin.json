@@ -1,6 +1,6 @@
 {
     "id": "bot_tittle",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "name": "BotTittle",
     "description": "Automatically assign a custom title prefix to carpet bot players",
     "author": "addre",
