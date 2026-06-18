@@ -1,5 +1,5 @@
 # BotTittle
 
-通过原版 `/team` 机制，自动为地毯端假人玩家添加可配置的称号前缀。
+Automatically assign a configurable title prefix to carpet mod fake players using the vanilla `/team` command.
 
-基于登录消息正则匹配识别假人玩家，无需额外依赖。
+Bot detection is based on login message regex matching, no extra dependencies required.
