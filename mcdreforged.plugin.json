@@ -1,0 +1,11 @@
+{
+    "id": "bot_tittle",
+    "version": "1.0.0",
+    "name": "BotTittle",
+    "description": "Automatically assign a custom title prefix to carpet bot players",
+    "author": "addre",
+    "link": "https://github.com/addre98/MCDR-BotTittle",
+    "dependencies": {
+        "mcdreforged": ">=2.0.0"
+    }
+}
